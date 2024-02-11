@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yokel.app",
+      "sha256_cert_fingerprints": [
+        "CD:43:FB:7B:93:D0:79:89:C9:0B:33:B0:86:33:DF:2E:BA:F3:EB:46:8E:CC:58:11:18:B1:D7:78:37:F0:68:2E"
+      ]
+    }
+  }
+]
